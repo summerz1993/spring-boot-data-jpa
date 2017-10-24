@@ -1,0 +1,25 @@
+#IntelliJ
+.idea
+*.iml
+*.iws
+*.ipr
+
+#Gradle
+.gradle
+*/build/
+build
+out
+
+#Eclipse
+.classpath
+.project
+.settings/
+
+#Package Files
+*.jar
+*.war
+*.ear
+
+#Spring Boot
+logs
+*/logs/
